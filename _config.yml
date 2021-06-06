@@ -11,3 +11,5 @@ safe: true
 lsi: false
 
 
+
+theme: jekyll-theme-cayman
